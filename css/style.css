@@ -1,0 +1,39 @@
+html, body {
+ margin: 0;
+ padding: 0;
+}
+.navHead {
+ text-align: center;
+ color: rgb(255, 255, 255);
+ background-color: rgb(87, 72, 184);
+ width: 100%;
+ height: 11.5vh;
+}
+.navbar {
+ height: 7vh;
+ width: 100%;
+ background-color:  rgb(137, 123, 233);
+
+}
+.page1 {
+ height: 80vh;
+ width: 100%;
+ background-color: indianred;
+ padding-bottom: 50px;
+ padding: 0;
+}
+.page1Part1 {
+ width: 50%;
+ height: 80vh;
+ background-color: indigo;
+ float: left;
+}
+.page1Part1 h1 {
+ color: ivory;
+}
+.page1Part2 {
+height: 80vh;
+width: 50%;
+background-color: magenta;
+float: left;
+}
